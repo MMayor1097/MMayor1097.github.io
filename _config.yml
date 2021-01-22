@@ -32,8 +32,6 @@ urls:
       url: /projects/
     - text: Blogs
       url: /blogs/
-    - text: XML Feed
-      url: /feed.xml
 # url: "http://localhost:4000"
 url: "https://conor-mcgrath.github.io/"
 baseurl: ""
@@ -49,3 +47,5 @@ compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
   endings: all
+
+theme: jekyll-theme-architect

@@ -59,3 +59,5 @@ compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
   endings: all
+
+theme: jekyll-theme-architect

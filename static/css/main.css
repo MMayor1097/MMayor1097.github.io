@@ -31,7 +31,7 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #bd5d38;
+  color: #0C2340;
 }
 a:hover {
   color: #B3B3B3;
@@ -39,13 +39,13 @@ a:hover {
 }
 
 .text-primary {
-  color: #bd5d38!important;
+  color: #0C2340!important;
 }
 
 /* Layout */
 .main-layout {
   background: #fff;
-  border: 1px solid rgba(189, 93, 56, 0.2);
+  border: 1px solid rgba(201, 151, 0, 0.2);
 }
 .sidebar-nav {
   margin: 0;

@@ -20,6 +20,15 @@ hr {
   margin-right: auto;
   width: 50%;
 }
+
+.subheading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
 span.time, span.categories {
   color: #0C2340;
   margin-bottom: 5px;

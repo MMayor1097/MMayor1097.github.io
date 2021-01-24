@@ -14,13 +14,6 @@ hr {
   border-bottom: 1px solid #fff;
 }
 
-.logo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 .subheading {
     position: absolute;
     top: 50%;

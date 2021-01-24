@@ -4,7 +4,7 @@ body {
   line-height: 1.5em;
   font-weight: 300;
   font-size: 16px;
-  color: #c99700;
+  color: #0C2340;
 }
 hr {
   margin-top: 20px;
@@ -14,7 +14,7 @@ hr {
   border-bottom: 1px solid #fff;
 }
 span.time, span.categories {
-  color: #c99700;
+  color: #0C2340;
   margin-bottom: 5px;
   font-size: 11px;
 }

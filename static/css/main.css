@@ -13,6 +13,13 @@ hr {
   border-top: 1px solid #F7F1F1;
   border-bottom: 1px solid #fff;
 }
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 span.time, span.categories {
   color: #0C2340;
   margin-bottom: 5px;
@@ -30,6 +37,7 @@ h1 {
 }
 h2, h3 {
   margin-bottom: 5px;
+  text-align: center;
 }
 a, a:link, a:active {
   text-decoration: none;

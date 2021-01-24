@@ -102,7 +102,7 @@ div.col-sm-3 strong {
 }
 div.col-sm-3 div.profile-about {
   margin-top: 10px;
-  color: #00843d;
+  color: #0C2340;
 }
 div.col-sm-3 img.profile-avatar {
   border-radius: 50%;
@@ -159,10 +159,10 @@ div.col-sm-3 img.profile-avatar {
 }
 .social li a {
   font-size: 16px;
-  color: #00843d;
+  color: #0C2340;
 }
 .social li a:hover {
-  color: #6D6D6D;
+  color: #c99700;
 }
 
 .share-page {

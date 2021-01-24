@@ -44,7 +44,7 @@ a:hover {
 
 /* Layout */
 .main-layout {
-  background: #c99700;
+  background: #FFFFFF;
   border: 1px solid rgba(201, 151, 0, 0.2);
 }
 .sidebar-nav {
@@ -93,11 +93,11 @@ footer {
 /* Left column */
 div.col-sm-3 {
   margin-top: 50px;
-  color: #00843d;
+  color: #0C2340;
 }
 div.col-sm-3 strong {
   font-size: 16px;
-  color: #00843d;
+  color: #0C2340;
   font-weight: normal;
 }
 div.col-sm-3 div.profile-about {
@@ -144,7 +144,7 @@ div.col-sm-3 img.profile-avatar {
 .social{
   display: block;
   margin: 10px 0;
-  color: #00843d;
+  color: #0C2340;
 }
 .social ul {
   list-style-type: none;

@@ -16,6 +16,7 @@ hr {
 
 .subheading {
   margin: 0 auto;
+  display: block;
 }
 
 .logo {

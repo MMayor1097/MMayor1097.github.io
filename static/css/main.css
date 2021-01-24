@@ -66,17 +66,17 @@ a:hover {
   margin: 0;
   padding: 0;
   font-size: 1em;
-  color: 0C2340;
+  color: #0C2340;
 }
 .sidebar-nav li {
   margin: 0;
   list-style: none;
-  color: 0C2340;
+  color: #c99700;
 }
 .sidebar-nav li::before {
   content: "»";
   margin-right: .5em;
-  color: 0C2340;
+  color: #0C2340;
 }
 
 /* Content */

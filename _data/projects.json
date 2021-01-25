@@ -34,6 +34,16 @@
 		"date": "December 2020",
 		"description": "Using Tableau to visualize sales performance for a media company as they transition toward digital distribution streams. (Project created with help of Tiffany Tseng, Tina Wang, Michael Mayor, and Brock Gallagher)",
 		"tags": ["Media", "Sales Analysis", "Tableau", "Visualization"]
+	},
+	{
+		"slug": "forbes-top-200",
+		"name": "2017 Forbes Top 200 Performance Analysis",
+		"image": "forbes.jpg",
+		"url": "https://public.tableau.com/profile/conor.mcgrath4371#!/vizhome/ForbesTop200CompaniesPerformanceAnalysis/Dashboard?publish=yes",
+		"date": "November 2020",
+		"description": "Comparing performance of the 2017 top 200 companies as rated by Forbes across countries, sectors, and industries.",
+		"tags": ["Finance", "Sales Analysis", "Tableau", "Visualization"]
 	}
+	
 	
 ]

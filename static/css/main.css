@@ -112,12 +112,12 @@ div.col-sm-3 {
 }
 div.col-sm-3 strong {
   font-size: 16px;
-  color: #0C2340;
+  color: #c99700;
   font-weight: normal;
 }
 div.col-sm-3 div.profile-about {
   margin-top: 10px;
-  color: #c99700;
+  color: #0C2340;
 }
 div.col-sm-3 img.profile-avatar {
   border-radius: 50%;

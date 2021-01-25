@@ -6,7 +6,7 @@
 		"url": "https://conor-mcgrath.shinyapps.io/Conference_Realignment/",
 		"date": "Jan 2021",
 		"description": "R Shiny app I developed allowing users to create their own NCAA Division 1 conferences",
-		"tags": ["Sports", "NCAA", "R Shiny"]
+		"tags": ["Sports", "NCAA", "R Shiny", "Visualiation]
 	},
 	{
 		"slug": "basketball-predictions",
@@ -15,7 +15,7 @@
 		"url": "https://tiffanytseng.shinyapps.io/FinalMLProject/?_ga=2.58003817.239081129.1606251738-1648853176.1604679001",
 		"date": "Nov 2020",
 		"description": "R Shiny app showing XGBoost generated predictions for every men's and women's game in 2021 NCAA season. (Model created with help of Tiffany Tseng, Tina Wang, Michael Mayor, and Brock Gallagher)",
-		"tags": ["Sports", "NCAA", "R Shiny", "Basketball", "Machine Learning"]
+		"tags": ["Sports", "NCAA", "R Shiny", "Basketball", "Machine Learning", "Visualization"]
 	},
 	{
 		"slug": "demographics-elections-relationship",
@@ -24,7 +24,16 @@
 		"url": "https://rpubs.com/Conor-McGrath/717216",
 		"date": "Oct 2020",
 		"description": "Using linear models to explore relationship between county level demographics and voting outcomes in 2016 U.S. presidential election. (Model created with help of Tiffany Tseng, Tina Wang, Michael Mayor, and Brock Gallagher)",
-		"tags": ["Elections", "Politics", "Linear Model"]
+		"tags": ["Elections", "Politics", "Linear Model", "R"]
+	},
+	{
+		"slug": "analyzing-newspaper-sales",
+		"name": "Analyzing Sales Performance for Daily Media Blitz",
+		"image": "newspaper.jpg",
+		"url": "https://public.tableau.com/profile/conor.mcgrath4371#!/vizhome/BlitzNewspaperSalesAnalysis/Story1",
+		"date": "December 2020",
+		"description": "Using Tableau to visualize sales performance for a media company as they transition toward digital distribution streams. (Project created with help of Tiffany Tseng, Tina Wang, Michael Mayor, and Brock Gallagher)",
+		"tags": ["Media", "Sales Analysis", "Tableau", "Visualization"]
 	}
 	
 ]

@@ -32,6 +32,9 @@ urls:
       url: /projects/
     - text: Blogs
       url: /blogs/
+    - text: Resume
+      url: /resume/
+      
 # url: "http://localhost:4000"
 url: "https://conor-mcgrath.github.io/"
 baseurl: ""

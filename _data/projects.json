@@ -6,7 +6,7 @@
 		"url": "https://conor-mcgrath.shinyapps.io/Conference_Realignment/",
 		"date": "Jan 2021",
 		"description": "R Shiny app I developed allowing users to create their own NCAA Division 1 conferences",
-		"tags": ["Sports", "NCAA", "R Shiny", "Visualiation]
+		"tags": ["Sports", "NCAA", "R Shiny", "Visualiation"]
 	},
 	{
 		"slug": "basketball-predictions",

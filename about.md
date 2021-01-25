@@ -8,6 +8,3 @@ Hi, I'm Conor. I'm originally from suburban Philadelphia, but now call South Ben
 </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a> <br> Phone: {{site.phone}}
-
-## Resume
-<iframe src="https://drive.google.com/file/d/1YUNfOOdccwt7w71wdf5nC_vEwcxTH5v8/preview" width="640" height="480"></iframe>

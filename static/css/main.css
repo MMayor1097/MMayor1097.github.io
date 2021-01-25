@@ -71,7 +71,7 @@ a:hover {
 .sidebar-nav li {
   margin: 0;
   list-style: none;
-  color: #c99700;
+  color: #0C2340;
 }
 .sidebar-nav li::before {
   content: "»";

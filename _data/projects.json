@@ -43,6 +43,15 @@
 		"date": "November 2020",
 		"description": "Comparing performance of the 2017 top 200 companies as rated by Forbes across countries, sectors, and industries.",
 		"tags": ["Finance", "Sales Analysis", "Tableau", "Visualization"]
+	},
+	{
+		"slug": "phone-calls",
+		"name": "Analyzing Phone Call Data",
+		"image": "phone.jpg",
+		"url": "https://public.tableau.com/profile/conor.mcgrath4371#!/vizhome/AnalyzingPhoneCallData/AnalyzingPhoneCallData?publish=yes",
+		"date": "September 2020",
+		"description": "Using Tableau to visualize length of phone calls with each of my parents over time",
+		"tags": ["Lifestyle", "Communication", "Tableau", "Visualization"]
 	}
 	
 	

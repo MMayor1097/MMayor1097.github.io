@@ -18,6 +18,7 @@ collections:
     permalink: /project/:path/
 
 social:
+    - email: cmcgrat3@nd.edu 
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/conor-mcgrath-/"
     # - icon: fa-stack-exchange

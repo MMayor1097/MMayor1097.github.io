@@ -65,7 +65,7 @@
 	{
 		"slug": "Bracketology",
 		"name": "A Regionalized Approach to Bracketology",
-		"image": "Bracketology.png",
+		"image": "Bracketology.PNG",
 		"url": "https://conor-mcgrath.shinyapps.io/Regionalized_Bracketology/",
 		"date": "February 2021",
 		"description": "R Shiny application allowing users to create their own NCAA Division 1 Men's Basketball tournament bracket.",

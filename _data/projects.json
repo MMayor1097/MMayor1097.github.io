@@ -61,6 +61,15 @@
 		"date": "December 2018",
 		"description": "PowerPoint slide deck detailing proposal for a new AB InBev beverage launch. (Project created with help of Sam Yoo, Zubair Johal, Alex Aguilera, Joe Castellucia, and Trae Long)",
 		"tags": ["Beer", "PowerPoint", "Marketing", "Finance", "Strategy"]
+	},
+	{
+		"slug": "Bracketology",
+		"name": "A Regionalized Approach to Bracketology",
+		"image": "Bracketology.png",
+		"url": "https://conor-mcgrath.shinyapps.io/Regionalized_Bracketology/",
+		"date": "February 2021",
+		"description": "R Shiny application allowing users to create their own NCAA Division 1 Men's Basketball tournament bracket.",
+		"tags": ["Bracketology", "NCAA", "Sports", "R Shiny", "Basketball", "Visualization"]
 	}
 	
 	

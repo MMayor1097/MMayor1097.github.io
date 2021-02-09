@@ -8,7 +8,7 @@ date:   2021-02-08
 <p align="center">
   <img src="/static/img/Bracketology.PNG" />
 </p>
-*Each week I will be updating the above regionalized bracketology to show how the bracket would look had the NCAA taken this approach as I'll discuss in this post.*
+*Each week I will be updating the above regionalized bracketology to show how the bracket would look had the NCAA taken this approach as I'll discuss in this post.
 <br>
 <br>
 

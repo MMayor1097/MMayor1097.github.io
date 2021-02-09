@@ -3,9 +3,15 @@ layout: post
 title:  "NCAA Men's Division 1 Regionalized Bracketology"
 date:   2021-02-08
 ---
+*Updated: 2/9/2021*
 
+<p align="center">
+  <img src="/static/img/Bracketology.PNG" />
+</p>
+*Each week I will be updating the above regionalized bracketology to show how the bracket would look had the NCAA taken this approach as I'll discuss in this post.*
 <br>
 <br>
+
 
 A lot of things have been far from normal over the past year and the NCAA basketball tournament is no exception. The NCAA was forced to cancel its largest revenue-generating 
 event last March due to the COVID-19 pandemic. The cancellation resulted in a decrease in revenue of [50%](https://www.usatoday.com/story/sports/college/2021/01/25/ncaa-revenue-decrease-due-to-no-basketball-tournament/6699352002/) 
@@ -52,12 +58,4 @@ the tournament games would be in Salt Lake City, Chicago, Washington D.C., and A
 </p>
 <p float="center">
   <img src="/static/img/West_Regional.PNG" width="500" />
-</p>
-
-Each week I will be updating the following regionalized bracketology to show how the bracket would look had NCAA taken this regionalized approach.
-
-*Updated: 2/9/2021*
-
-<p align="center">
-  <img src="/static/img/Bracketology.PNG" />
 </p>

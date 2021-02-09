@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NCAA Conference Realignment"
+title:  "College Conference Realignment"
 date:   2021-01-21
 ---
 

@@ -25,17 +25,19 @@ travel to the tournament site (its easier to social distance on a bus rather tha
 and allows for the continuation of the other regions' games even in the event of positive cases. The champion of each region can then go on to compete in Indianapolis for the Final Four. 
 This plan reduces the number of teams travelling to Indy from 68 down to 4 and also buys time for increased vaccine rollout and decreased case counts.
 
-The following four images show the locations of (CBS Sports')[https://www.cbssports.com/college-basketball/bracketology/] projected tournament teams as of 2/8 in their
+The following four images show the locations of the [projected](https://www.cbssports.com/college-basketball/bracketology/) tournament teams as of 2/8 in their
 designated region. The star indicates the central location of those tournament teams. Based on these central locations, it was determined that the optimal locations to hold
 the tournament games would be in Salt Lake City, Chicago, Washington D.C., and Atlanta.
 
 <p float="left">
-  <img src="/static/img/East_Regional.PNG" width="100" />
-  <img src="/static/img/South_Regional.PNG" width="100" /> 
-  <img src="/static/img/Midwest_Regional.PNG" width="100" />
-  <img src="/static/img/West_Regional.PNG" width="100" />
+  <img src="/static/img/East_Regional.PNG" width="200" />
+  <img src="/static/img/South_Regional.PNG" width="200" /> 
+  <img src="/static/img/Midwest_Regional.PNG" width="200" />
+  <img src="/static/img/West_Regional.PNG" width="200" />
 </p>
 
 Each week I will be updating the following regionalized bracketology to show how the bracket would look had NCAA taken this regionalized approach.
 
-![bracketology](/static/img/Bracketology.PNG)
+<p align="center">
+  <img src="/static/img/Bracketology.PNG" />
+</p>

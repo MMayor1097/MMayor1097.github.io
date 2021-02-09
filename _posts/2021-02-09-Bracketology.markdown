@@ -29,14 +29,23 @@ The following four images show the locations of the [projected](https://www.cbss
 designated region. The star indicates the central location of those tournament teams. Based on these central locations, it was determined that the optimal locations to hold
 the tournament games would be in Salt Lake City, Chicago, Washington D.C., and Atlanta.
 
-<p float="left">
+<p float="center">
+  <strong> East - Washington D.C. </strong>
   <img src="/static/img/East_Regional.PNG" width="500" />
+  <br>
+  <strong> South - Atlanta </strong>
   <img src="/static/img/South_Regional.PNG" width="500" /> 
+  <br>
+  <strong> Midwest - Chicago </strong>
   <img src="/static/img/Midwest_Regional.PNG" width="500" />
+  <br>
+  <strong> West - Salt Lake City </strong>
   <img src="/static/img/West_Regional.PNG" width="500" />
 </p>
 
 Each week I will be updating the following regionalized bracketology to show how the bracket would look had NCAA taken this regionalized approach.
+
+*Updated: 2/9/2021
 
 <p align="center">
   <img src="/static/img/Bracketology.PNG" />

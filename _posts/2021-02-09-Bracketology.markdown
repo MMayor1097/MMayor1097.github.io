@@ -7,9 +7,12 @@ date:   2021-02-08
 
 <figure align="center">
   <img src="/static/img/Bracketology.PNG" />
-  <figcaption>Each week I will be updating the above regionalized bracketology to show how the bracket would look had the NCAA taken this approach as I'll discuss in this post.</figcaption>
+  <figcaption>Each week I will be updating the above regionalized bracketology to show how the bracket would look had the NCAA taken this approach as I'll discuss.</figcaption>
 </figure>
+
 <br>
+<br>
+
 
 
 A lot of things have been far from normal over the past year and the NCAA basketball tournament is no exception. The NCAA was forced to cancel its largest revenue-generating 

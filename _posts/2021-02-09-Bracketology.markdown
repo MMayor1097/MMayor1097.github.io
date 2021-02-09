@@ -31,21 +31,32 @@ the tournament games would be in Salt Lake City, Chicago, Washington D.C., and A
 
 <p float="center">
   <strong> East - Washington D.C. </strong>
+</p>
+<p float="center">
   <img src="/static/img/East_Regional.PNG" width="500" />
-  <br>
+</p>
+<p float="center">
   <strong> South - Atlanta </strong>
+</p>
+<p float="center">
   <img src="/static/img/South_Regional.PNG" width="500" /> 
-  <br>
+</p>
+<p float="center">
   <strong> Midwest - Chicago </strong>
+</p>
+<p float="center">
   <img src="/static/img/Midwest_Regional.PNG" width="500" />
-  <br>
+</p>
+<p float="center">
   <strong> West - Salt Lake City </strong>
+</p>
+<p float="center">
   <img src="/static/img/West_Regional.PNG" width="500" />
 </p>
 
 Each week I will be updating the following regionalized bracketology to show how the bracket would look had NCAA taken this regionalized approach.
 
-*Updated: 2/9/2021
+*Updated: 2/9/2021*
 
 <p align="center">
   <img src="/static/img/Bracketology.PNG" />

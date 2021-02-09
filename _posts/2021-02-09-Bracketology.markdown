@@ -30,10 +30,10 @@ designated region. The star indicates the central location of those tournament t
 the tournament games would be in Salt Lake City, Chicago, Washington D.C., and Atlanta.
 
 <p float="left">
-  <img src="/static/img/East_Regional.PNG" width="200" />
-  <img src="/static/img/South_Regional.PNG" width="200" /> 
-  <img src="/static/img/Midwest_Regional.PNG" width="200" />
-  <img src="/static/img/West_Regional.PNG" width="200" />
+  <img src="/static/img/East_Regional.PNG" width="500" />
+  <img src="/static/img/South_Regional.PNG" width="500" /> 
+  <img src="/static/img/Midwest_Regional.PNG" width="500" />
+  <img src="/static/img/West_Regional.PNG" width="500" />
 </p>
 
 Each week I will be updating the following regionalized bracketology to show how the bracket would look had NCAA taken this regionalized approach.

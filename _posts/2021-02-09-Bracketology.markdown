@@ -3,7 +3,7 @@ layout: post
 title:  "NCAA Men's Division 1 Regionalized Bracketology"
 date:   2021-02-08
 ---
-*Updated: 2/15/2021*
+*Updated: 2/19/2021*
 
 <figure align="center">
   <img src="/static/img/Bracketology.PNG" />
@@ -34,7 +34,7 @@ This plan reduces the number of teams travelling to Indy from 68 down to 4 and a
 
 The following four images show the locations of the [projected](https://www.cbssports.com/college-basketball/bracketology/) tournament teams as of 2/8 in their
 designated region. The star indicates the central location of those tournament teams. Based on these central locations, it was determined that the optimal locations to hold
-the tournament games would be in Salt Lake City, Chicago, Washington D.C., and Atlanta.
+the tournament games would be in Denver, Chicago, Washington D.C., and Atlanta.
 
 <p float="center">
   <strong> East - Washington D.C. </strong>
@@ -55,7 +55,7 @@ the tournament games would be in Salt Lake City, Chicago, Washington D.C., and A
   <img src="/static/img/Midwest_Regional.PNG" width="500" />
 </p>
 <p float="center">
-  <strong> West - Salt Lake City </strong>
+  <strong> West - Denver </strong>
 </p>
 <p float="center">
   <img src="/static/img/West_Regional.PNG" width="500" />

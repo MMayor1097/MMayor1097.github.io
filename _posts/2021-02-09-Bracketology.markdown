@@ -3,7 +3,7 @@ layout: post
 title:  "NCAA Men's Division 1 Regionalized Bracketology"
 date:   2021-02-08
 ---
-*Updated: 2/19/2021*
+*Updated: 2/22/2021*
 
 <figure align="center">
   <img src="/static/img/Bracketology.PNG" />

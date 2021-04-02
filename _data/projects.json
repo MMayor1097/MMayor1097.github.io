@@ -70,6 +70,15 @@
 		"date": "February 2021",
 		"description": "R Shiny application allowing users to create their own NCAA Division 1 Men's Basketball tournament bracket.",
 		"tags": ["Bracketology", "NCAA", "Sports", "R Shiny", "Basketball", "Visualization"]
+	},
+	{
+		"slug": "March-Madness",
+		"name": "Predicting March Madness for Kaggle's March Machine Learning Mania Competition",
+		"image": "kyleguy.jpg",
+		"url": "https://github.com/Conor-McGrath/March_Madness",
+		"date": "March 2021",
+		"description": "XGBoost machine learning model to predict win probabilities for every hypothetical matchup in the 2021 NCAA basketball tournament.",
+		"tags": ["XGBoost", "NCAA", "Sports", "R", "Basketball", "Scraping", "Machine Learning"]
 	}
 	
 	

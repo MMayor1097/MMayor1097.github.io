@@ -63,12 +63,12 @@
 		"tags": ["Beer", "PowerPoint", "Marketing", "Finance", "Strategy"]
 	},
 	{
-		"slug": "Bracketology",
-		"name": "A Regionalized Approach to Bracketology",
+		"slug": "la-and-ev-to-predict-hr",
+		"name": "Using a Player's Exit Velocity and Launch Angle to Predict Home Runs",
 		"image": "Bracketology.PNG",
-		"url": "https://conor-mcgrath.shinyapps.io/Regionalized_Bracketology/",
+		"url": "https://rpubs.com/Mayor1097/764065",
 		"date": "February 2021",
-		"description": "R Shiny application allowing users to create their own NCAA Division 1 Men's Basketball tournament bracket.",
+		"description": "",
 		"tags": ["Bracketology", "NCAA", "Sports", "R Shiny", "Basketball", "Visualization"]
 	},
 	{

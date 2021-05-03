@@ -54,6 +54,15 @@
 		"tags": ["Lifestyle", "Communication", "Tableau", "Visualization"]
 	},
 	{
+		"slug": "doge-coin-forecasting",
+		"name": "DogeCoin Time Series Analysis",
+		"image": "Dogecoin.jpg",
+		"url": "https://github.com/MMayor1097/DogeCoin_TimeSeries",
+		"date": "September 2020",
+		"description": "A time series analysis for the Dogecoin cryptocurrency utilizing ARIMA and GARCH models to explore possible future values of this volatile financial asset.",
+		"tags": ["Lifestyle", "Communication", "Tableau", "Visualization"]
+	},
+	{
 		"slug": "ABInBev-brand-launch",
 		"name": "Launching a new beverage brand for AB InBev",
 		"image": "magellan.png",

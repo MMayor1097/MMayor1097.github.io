@@ -1,11 +1,11 @@
 [
 	{
-		"slug": "conference-realignment",
-		"name": "NCAA Conference Realignment",
+		"slug": "move-back-3pt-line",
+		"name": "Should the NCAA Continue To Move Back The 3-Point Line?",
 		"image": "ncaa.png",
-		"url": "https://conor-mcgrath.shinyapps.io/Conference_Realignment/",
-		"date": "Jan 2021",
-		"description": "R Shiny app I developed allowing users to create their own NCAA Division 1 conferences",
+		"url": "https://rpubs.com/Mayor1097/764059",
+		"date": "Nov 2020",
+		"description": "",
 		"tags": ["Sports", "NCAA", "R Shiny", "Visualization"]
 	},
 	{

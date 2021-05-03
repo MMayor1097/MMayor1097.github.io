@@ -1,11 +1,11 @@
-title: Conor McGrath
-description: My analytical topics on a wide range of topics I find interesting.
-author: Conor McGrath
-email: cmcgrat3@nd.edu
-phone: (267) 272-5761
+title: Michael Mayor
+description: 
+author: Michael Mayor
+email: mmayor@nd.edu
+phone: (630) 842-5289
 github: https://github.com/Conor-McGrath
-about: I am a Master's of Business Analytics student at Notre Dame and enjoy using data to answer life's questions.
-disqus_shortname: https-conor-mcgrath-github-io
+about: 
+disqus_shortname: https-MMayor1097-github-io
 google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
 
@@ -19,13 +19,13 @@ collections:
 
 social:
     - icon: fa-envelope-square
-      link: "mailto:cmcgrat3@nd.edu"
+      link: "mailto:mmayor@nd.edu"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/conor-mcgrath-/"
+      link: "https://www.linkedin.com/in/michaelmayorpurdue/"
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/Conor-McGrath"
+      link: "https://github.com/MMayor1097"
 
 urls:
     - text: About Me
@@ -38,7 +38,7 @@ urls:
       url: /resume/
       
 # url: "http://localhost:4000"
-url: "https://conor-mcgrath.github.io/"
+url: "https://MMayor1097.github.io/"
 baseurl: ""
 paginate: 20
 per_page: 20

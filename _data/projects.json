@@ -21,7 +21,7 @@
 		"slug": "demographics-elections-relationship",
 		"name": "Relationship Between Demographics and 2016 Election",
 		"image": "election.jpg",
-		"url": "https://rpubs.com/Conor-McGrath/717216",
+		"url": "https://rpubs.com/Mayor1097/764052",
 		"date": "Oct 2020",
 		"description": "Using linear models to explore relationship between county level demographics and voting outcomes in 2016 U.S. presidential election. (Model created with help of Tiffany Tseng, Tina Wang, Michael Mayor, and Brock Gallagher)",
 		"tags": ["Elections", "Politics", "Linear Model", "R"]

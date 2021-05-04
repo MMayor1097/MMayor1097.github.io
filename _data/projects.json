@@ -36,24 +36,6 @@
 		"tags": ["Media", "Sales Analysis", "Tableau", "Visualization"]
 	},
 	{
-		"slug": "forbes-top-200",
-		"name": "2017 Forbes Top 200 Performance Analysis",
-		"image": "forbes.jpg",
-		"url": "https://public.tableau.com/profile/conor.mcgrath4371#!/vizhome/ForbesTop200CompaniesPerformanceAnalysis/Dashboard?publish=yes",
-		"date": "November 2020",
-		"description": "Comparing performance of the 2017 top 200 companies as rated by Forbes across countries, sectors, and industries.",
-		"tags": ["Finance", "Sales Analysis", "Tableau", "Visualization"]
-	},
-	{
-		"slug": "phone-calls",
-		"name": "Analyzing Phone Call Data",
-		"image": "phone.jpg",
-		"url": "https://public.tableau.com/profile/conor.mcgrath4371#!/vizhome/AnalyzingPhoneCallData/AnalyzingPhoneCallData?publish=yes",
-		"date": "September 2020",
-		"description": "Using Tableau to visualize length of phone calls with each of my parents over time",
-		"tags": ["Lifestyle", "Communication", "Tableau", "Visualization"]
-	},
-	{
 		"slug": "doge-coin-forecasting",
 		"name": "DogeCoin Time Series Analysis",
 		"image": "Dogecoin.jpg",
@@ -61,15 +43,6 @@
 		"date": "September 2020",
 		"description": "A time series analysis for the Dogecoin cryptocurrency utilizing ARIMA and GARCH models to explore possible future values of this volatile financial asset.",
 		"tags": ["Lifestyle", "Communication", "Tableau", "Visualization"]
-	},
-	{
-		"slug": "ABInBev-brand-launch",
-		"name": "Launching a new beverage brand for AB InBev",
-		"image": "magellan.png",
-		"url": "https://drive.google.com/file/d/14L4pKigwecTFtP-SXEy9cuKP64gWwvwy/view?usp=sharinges",
-		"date": "December 2018",
-		"description": "PowerPoint slide deck detailing proposal for a new AB InBev beverage launch. (Project created with help of Sam Yoo, Zubair Johal, Alex Aguilera, Joe Castellucia, and Trae Long)",
-		"tags": ["Beer", "PowerPoint", "Marketing", "Finance", "Strategy"]
 	},
 	{
 		"slug": "la-and-ev-to-predict-hr",

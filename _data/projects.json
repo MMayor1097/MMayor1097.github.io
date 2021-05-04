@@ -29,7 +29,7 @@
 	{
 		"slug": "analyzing-newspaper-sales",
 		"name": "Analyzing Sales Performance for Daily Media Blitz",
-		"image": "newspaper.png",
+		"image": "news.jpg",
 		"url": "https://public.tableau.com/profile/conor.mcgrath4371#!/vizhome/BlitzNewspaperSalesAnalysis/Story1",
 		"date": "December 2020",
 		"description": "Using Tableau to visualize sales performance for a media company as they transition toward digital distribution streams. (Project created with help of Tiffany Tseng, Tina Wang, Michael Mayor, and Brock Gallagher)",

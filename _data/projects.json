@@ -61,8 +61,16 @@
 		"date": "March 2021",
 		"description": "XGBoost machine learning model to predict win probabilities for every hypothetical matchup in the 2021 NCAA basketball tournament.",
 		"tags": ["XGBoost", "NCAA", "Sports", "R", "Basketball", "Scraping", "Machine Learning"]
+	},
+	{
+		"slug": "March-Madness",
+		"name": "Finding optimal locations for BNEDC to recruit from.",
+		"image": "bnedc.png",
+		"url": "https://github.com/Conor-McGrath/March_Madness",
+		"date": "January 2021",
+		"description": "Used a K-Means Clustering Algorithm and XGBoost Model to identify the best counties for BNEDC to recruit from.",
+		"tags": []
 	}
-	
 	
 	
 ]

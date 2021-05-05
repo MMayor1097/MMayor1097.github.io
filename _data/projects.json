@@ -64,9 +64,9 @@
 	},
 	{
 		"slug": "March-Madness",
-		"name": "Finding optimal locations for BNEDC to recruit from.",
+		"name": "Finding optimal recruiting hubs for Bloomington-Normal Economic Development Council.",
 		"image": "bnedc.png",
-		"url": "https://github.com/Conor-McGrath/March_Madness",
+		"url": "https://github.com/MMayor1097/BNEDCCapstoneProject",
 		"date": "January 2021",
 		"description": "Used a K-Means Clustering Algorithm and XGBoost Model to identify the best counties for BNEDC to recruit from.",
 		"tags": []

@@ -63,7 +63,7 @@
 		"tags": ["XGBoost", "NCAA", "Sports", "R", "Basketball", "Scraping", "Machine Learning"]
 	},
 	{
-		"slug": "March-Madness",
+		"slug": "bnedc-capstone",
 		"name": "Finding Optimal Recruiting Hubs for Bloomington-Normal Economic Development Council.",
 		"image": "bnedc.png",
 		"url": "https://github.com/MMayor1097/BNEDCCapstoneProject",

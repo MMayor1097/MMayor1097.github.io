@@ -4,7 +4,7 @@
 		"name": "Should the NCAA Continue To Move Back The 3-Point Line?",
 		"image": "ncaa.png",
 		"url": "https://rpubs.com/Mayor1097/764059",
-		"date": "Nov 2020",
+		"date": "November 2020",
 		"description": "",
 		"tags": ["Sports", "NCAA", "R Shiny", "Visualization"]
 	},
@@ -13,7 +13,7 @@
 		"name": "NCAA Basketball Game Predictions",
 		"image": "basketball.png",
 		"url": "https://tiffanytseng.shinyapps.io/FinalMLProject/?_ga=2.58003817.239081129.1606251738-1648853176.1604679001",
-		"date": "Nov 2020",
+		"date": "November 2020",
 		"description": "R Shiny app showing XGBoost generated predictions for every men's and women's game in 2021 NCAA season. (Model created with help of Tiffany Tseng, Tina Wang, Michael Mayor, and Brock Gallagher)",
 		"tags": ["Sports", "NCAA", "R Shiny", "Basketball", "Machine Learning", "Visualization"]
 	},
@@ -22,7 +22,7 @@
 		"name": "Relationship Between Demographics and 2016 Election",
 		"image": "voting.jpg",
 		"url": "https://rpubs.com/Mayor1097/764052",
-		"date": "Oct 2020",
+		"date": "October 2020",
 		"description": "Using linear models to explore relationship between county level demographics and voting outcomes in 2016 U.S. presidential election. (Model created with help of Tiffany Tseng, Tina Wang, Michael Mayor, and Brock Gallagher)",
 		"tags": ["Elections", "Politics", "Linear Model", "R"]
 	},
@@ -40,7 +40,7 @@
 		"name": "DogeCoin Time Series Analysis",
 		"image": "Dogecoin.jpg",
 		"url": "https://github.com/sapatel97/DogeCoin_TimeSeries",
-		"date": "September 2020",
+		"date": "February 2020",
 		"description": "A time series analysis for the Dogecoin cryptocurrency utilizing ARIMA and GARCH models to explore possible future values of this volatile financial asset.",
 		"tags": ["Lifestyle", "Communication", "Tableau", "Visualization"]
 	},
@@ -49,7 +49,7 @@
 		"name": "Using a Player's Exit Velocity and Launch Angle to Predict Home Runs",
 		"image": "launchangle.jpg",
 		"url": "https://rpubs.com/Mayor1097/764065",
-		"date": "February 2021",
+		"date": "October 2020",
 		"description": "",
 		"tags": ["Bracketology", "NCAA", "Sports", "R Shiny", "Basketball", "Visualization"]
 	},

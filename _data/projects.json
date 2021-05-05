@@ -70,7 +70,16 @@
 		"date": "January 2021",
 		"description": "Used a K-Means Clustering Algorithm and XGBoost Model to identify the best counties for BNEDC to recruit from.",
 		"tags": []
+	},
+	{
+		"slug": "spin-rate",
+		"name": "What Effect Does Spin Rate and Other Measures Have on a Pitcher's Success?",
+		"image": "spinratee.png",
+		"url": "https://github.com/MMayor1097/BNEDCCapstoneProject",
+		"date": "April 2021",
+		"description": "Used Linear Regression Models to identify ideal areas of improvement for MLB pitchers clustered by pitch arsenal.",
+		"tags": []
 	}
 	
-	
+
 ]
